@@ -1,0 +1,1 @@
+A simple game engine for the android. Experiments with an aggregate object model.
